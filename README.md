@@ -27,8 +27,8 @@ Recommented/Empfohlen:
 Licence: MIT (READ THE LICENCE TEXT! I know there are many youngh TheJoCraft fans do not read the licence text)
 
 ## For developers
-1. If you want to edit or do something else this resourcepack just open the sources and click on the upper right download all files. When you did that you can download the zip file.
-2. Extract it
-3. go in the archive in the directory which has the latest version of TheJoQualität.
-4. execute compile.bat(to compile)
-5. if you want to edit something just edit it in the directory 1.19.3 and execute the compile.bat file again to compile the resourcepack
+1. If you want to edit or do something else with this resourcepack just download the sources.
+2. Extract them
+3. go in the 1.19.3 directory
+4. execute compile.*(to compile)
+5. if you want to edit something just edit it in the directory 1.19.3 and execute the compile.* file again to compile the resourcepack.
