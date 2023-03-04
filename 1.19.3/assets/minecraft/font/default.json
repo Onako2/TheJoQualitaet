@@ -1,0 +1,31 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/menu.png",
+			"height": 100,
+			"ascent": 20,
+			"chars": [
+				"𬺰"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/tjc_pokemon.png",
+			"height": 50,
+			"ascent": 7,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/experimental.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": [
+				""
+			]
+		}
+	]
+}

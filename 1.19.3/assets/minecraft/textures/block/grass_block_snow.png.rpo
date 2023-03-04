@@ -1,0 +1,4 @@
+{
+    condition: "disableCheats",
+    fallback: "assets/minecraft/textures/block/rick.png"
+}

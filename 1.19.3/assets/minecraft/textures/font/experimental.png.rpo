@@ -1,0 +1,4 @@
+{
+    condition: "enableExperimental",
+    fallback: "assets/minecraft/textures/font/experimental2.png"
+}

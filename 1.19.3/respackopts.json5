@@ -1,0 +1,23 @@
+{
+    id: "tjcQol",
+    version: 9,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        enableExperimental: {
+            type: "boolean",
+            default: "false"
+        },
+        enableCit: {
+            type: "boolean",
+            default: "true"
+        },
+        enableRandomEntities: {
+            type: "boolean",
+            default: "true"
+        },
+        disableCheats: {
+            type: "boolean",
+            default: "true"
+        }
+    }
+}
