@@ -30,5 +30,5 @@ Licence: MIT (READ THE LICENCE TEXT! I know there are many youngh TheJoCraft fan
 1. If you want to edit or do something else with this resourcepack just download the sources.
 2. Extract them
 3. go in the 1.19.3 directory
-4. execute compile.*(to compile)
+4. execute compile.sh(bat doesn't work! Working on it!)
 5. if you want to edit something just edit it in the directory 1.19.3 and execute the compile.* file again to compile the resourcepack.
